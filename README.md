@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jabril Hassan Álvarez and I from Seville.
-- 👀 I’m Computer Engineer and I’m interested in programming all kinds of things.
-- 📫 You can contact with me in my email: jabrilhassanalvarez11@gmail.com
+- 👋 Hola, soy @Jabril Hassan Álvarez.
+- 👀 Soy Ingeniero Informáico y mi pasion es la programación.
+- 📫 Aquí podrás encontrar algunos de mis códigos fuente.
 
